@@ -1,5 +1,14 @@
 # BSKY-PFP
 
-> Bluesky Profile Avatar Generator
+The source code for https://bsky-pfp.pages.dev
 
-Allows you to create emoji avatars/PFPs (Profile Pictures), similar to the one Bluesky offers during the sign-up process.
+
+## Project Setup
+
+```sh
+git clone https://github.com/kaustubhrprabhu/bsky-pfp.git
+cd bsky-pfp/
+
+npm install
+npm run dev
+```
